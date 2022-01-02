@@ -1,62 +1,23 @@
 const listOfProjects = [
     {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
+        title: "BookList App",
+        description: "A Vanilla JS Book listing app. Uses Bootstrap 4 for styling. ",
+        filePath: "./VanillaJS_BookList_App/index.html",
     },
     {
-        title: "Project 1",
+        title: "Calculator",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
+            "A Vanilla JS Calculator. Uses css grid for styling the calculator ui. A Calculator class is defined with methods for perform the functions of a real world calculator.",
+        filePath: "./VanillaJS_Calculator/index.html",
     },
     {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
+        title: "Music Player",
+        description: "A Vanilla JS Music Player.",
+        filePath: "./VanillaJS_Music_Player/index.html",
     },
     {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
-    },
-    {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
-    },
-    {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
-    },
-    {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
-    },
-    {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
-    },
-    {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
-    },
-    {
-        title: "Project 1",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, quasi? Adratione.",
+        title: "Tik Tak Toe",
+        description: "A Vanilla JS Tik Tak Toe Game.",
         filePath: "./VanillaJS_TicTacToe/index.html",
     },
 ];
