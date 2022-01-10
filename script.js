@@ -25,6 +25,12 @@ const listOfProjects = [
         description: "A Vanilla JS Analog Clock with them toggle.",
         filePath: "./VanillaJS_Clock/index.html",
     },
+    {
+        title: "Toggle Sign in and Sign up (css animation)",
+        description:
+            "A Vanilla JS Sign in and Register form width the functionality to toggle between them.",
+        filePath: "./VanillaJS-Login-Registration-Form-WebDev/index.html",
+    },
 ];
 
 const container = document.querySelector(".container");
