@@ -18,7 +18,7 @@ const listOfProjects = [
     {
         title: "Tik Tak Toe",
         description: "A Vanilla JS Tik Tak Toe Game.",
-        filePath: "./VanillaJS_TicTacToe/index.html",
+        filePath: "./VanillaJS_TicTacToe_WDS/index.html",
     },
     {
         title: "Clock With Theme Toggle",
