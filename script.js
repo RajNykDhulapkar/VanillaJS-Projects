@@ -20,6 +20,11 @@ const listOfProjects = [
         description: "A Vanilla JS Tik Tak Toe Game.",
         filePath: "./VanillaJS_TicTacToe/index.html",
     },
+    {
+        title: "Clock With Theme Toggle",
+        description: "A Vanilla JS Analog Clock with them toggle.",
+        filePath: "./VanillaJS_Clock/index.html",
+    },
 ];
 
 const container = document.querySelector(".container");
