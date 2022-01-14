@@ -1,0 +1,2 @@
+{"default":false,"data":[{"name":"base_url","value":"https://omdbapi.com/"},{"name":"api_key","value":"fc1fef96"}],"sortNum":-1,"name":"(Global Env)","created":"2022-01-14T12:37:49.653Z","modified":"2022-01-14T12:38:34.054Z","_id":"17f30e81-ebd7-4093-8814-a7354e35a016","global":true}
+{"default":true,"data":[{"name":"base_url","value":"https://omdbapi.com/"},{"name":"api_key","value":"fc1fef96"}],"sortNum":10000,"name":"omdb api","created":"2022-01-14T12:34:19.911Z","modified":"2022-01-14T12:37:32.582Z","_id":"3f83d1ee-ea61-41fa-92b8-41bc1e00a778"}

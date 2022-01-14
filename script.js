@@ -31,6 +31,12 @@ const listOfProjects = [
             "A Vanilla JS Sign in and Register form width the functionality to toggle between them.",
         filePath: "./VanillaJS-Login-Registration-Form-WebDev/index.html",
     },
+    {
+        title: "Movie Searching app using OMDB API",
+        description:
+            "A movie searching web app that uses OMDB API to fetch movie names and details.",
+        filePath: "./VanillaJS_Movie_Search_App_Using_OMDb_API/index.html",
+    },
 ];
 
 const container = document.querySelector(".container");
