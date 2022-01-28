@@ -37,6 +37,11 @@ const listOfProjects = [
             "A movie searching web app that uses OMDB API to fetch movie names and details.",
         filePath: "./VanillaJS_Movie_Search_App_Using_OMDb_API/index.html",
     },
+    {
+        title: "Random Password Generator",
+        description: "A Vanilla JS random password generator.",
+        filePath: "./random-password-generator/index.html",
+    },
 ];
 
 const container = document.querySelector(".container");
